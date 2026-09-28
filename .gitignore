@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+lora-code-model/
+tokenized_dataset/
+code_corpus.txt
+.env
